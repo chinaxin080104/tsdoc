@@ -1,0 +1,2 @@
+# tsdoc
+TS-basedoc
