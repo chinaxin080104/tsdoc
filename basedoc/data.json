@@ -1,0 +1,10 @@
+interface dataType {
+    name: string
+    age: number
+}
+
+interface responseType<T> {
+    code: number
+    data: T[]
+    msg: string
+}
